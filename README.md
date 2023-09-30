@@ -50,13 +50,18 @@
 
 ### 👨‍🎓 Education 
 
-* NRNU MEPhI (*Since 2020*)
-* Deep Learning School  (*Since 2022*)
-* Vorontsov ML course in MIPT (*Since 2022*)
-* Yandex Lyceum (ML specialization) (*Since 2023*)
-* Algorithms trainings from Yandex (*Since 2023*)
-* Docker karpov.courses (*Since 2023*)
-* SQL karpov.courses (*Since 2023*)
+* [ ] NRNU MEPhI (*Since 2020*)
+* [X] Deep Learning School  (*Since 2022*)
+* [X] Vorontsov ML course in MIPT (*Since 2022*)
+* [ ] Yandex Lyceum (ML specialization) (*Since 2023*)
+* [X] Algorithms trainings from Yandex (*Since 2023*)
+* [X] Docker karpov.courses (*Since 2023*)
+* [X] SQL karpov.courses (*Since 2023*)
+
+
+### :fire: Hackathons 
+
+* Nuclear IT Hack (VK task) - **prizer** :star:
 
 
 <h3> :busts_in_silhouette: Links for communication </h3>
