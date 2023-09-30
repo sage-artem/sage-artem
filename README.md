@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
 ### Hi :sunglasses:, my name is Artem :v:, 20 y. o., I'm student of MEPhI and beginner Data Scientist :blue_book:.
 
 
