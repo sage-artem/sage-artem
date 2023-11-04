@@ -62,6 +62,7 @@
 ### :fire: Hackathons 
 
 * Nuclear IT Hack (VK task) - **prizer** :star:
+* Atomic Hack (chemoinformatics) - **prizer** :star:
 
 
 <h3> :busts_in_silhouette: Links for communication </h3>
