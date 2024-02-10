@@ -2,7 +2,7 @@
   <img src="https://miro.medium.com/max/3000/1*VenHzUAglmaRajxjDI_f7A.gif" width="600" height="300"/>
 </div>
 
-### Hi :sunglasses:, my name is Artem :v:, 20 y. o., I'm student of MEPhI and beginner Data Scientist :blue_book:.
+### Hi :sunglasses:, my name is Artem :v:, 21 y. o., I'm student of MEPhI and beginner Data Scientist :blue_book:.
 
 
 ### :computer: ML skills
